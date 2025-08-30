@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/pandey/learning/data%20science/9.mlops/MLOPS_Tutorial/2.frameworks/1.mlflow%20by%20Manual_Gill/mlruns/630786690393149691/508cafcff73c4d839d23102ac0a95c25/artifacts
+end_time: 1756527817162
+entry_point_name: ''
+experiment_id: '630786690393149691'
+lifecycle_stage: active
+run_id: 508cafcff73c4d839d23102ac0a95c25
+run_name: auspicious-rook-902
+run_uuid: 508cafcff73c4d839d23102ac0a95c25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756527817057
+status: 3
+tags: []
+user_id: pande

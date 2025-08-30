@@ -1,0 +1,6 @@
+artifact_location: file:///e:/pandey/learning/data%20science/9.mlops/MLOPS_Tutorial/2.frameworks/1.mlflow%20by%20Manual_Gill/notebooks/experiment_tracking_fundamentals/mlruns/364991653145016430
+creation_time: 1756538919012
+experiment_id: '364991653145016430'
+last_update_time: 1756538919012
+lifecycle_stage: active
+name: first_experiment_using_MLFLOW_SDK
